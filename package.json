@@ -1,0 +1,28 @@
+{
+  "name": "prettier-config-sky",
+  "version": "1.0.0",
+  "description": "eslint standard config of skyclouds2001",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyclouds2001/prettier-config-sky.git"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "standard"
+  ],
+  "author": "CSY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skyclouds2001/prettier-config-sky/issues"
+  },
+  "homepage": "https://github.com/skyclouds2001/prettier-config-sky#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=8.10.0"
+  }
+}
